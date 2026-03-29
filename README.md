@@ -35,17 +35,21 @@ For credentials and service endpoints, prefer environment variables:
 
 ## Screenshots
 
-### Main dashboard
+### Project overview
 
-![Main dashboard](doc/dev01.png)
+![Project overview](doc/dev01.png)
 
 ### Project details
 
-![Project details](doc/dev02.png)
+![Project details](doc/dev04.png)
 
-### Jobs and operations
+### Settings dialog
 
-![Jobs and operations](doc/dev03.png)
+![Settings dialog](doc/dev03.png)
+
+### Backend operations backlog
+
+![Backend operations backlog](doc/dev02.png)
 
 ## In One Line
 
